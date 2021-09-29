@@ -1,0 +1,2 @@
+D:\New folder\Profiles\ProfileBusiness\obj\Debug\ProfileBusiness.csprojAssemblyReference.cache
+D:\New folder\Profiles\ProfileBusiness\obj\Debug\ProfileBusiness.csproj.CoreCompileInputs.cache

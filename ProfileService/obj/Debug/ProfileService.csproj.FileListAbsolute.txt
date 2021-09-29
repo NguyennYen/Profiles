@@ -1,0 +1,7 @@
+D:\New folder\Profiles\ProfileService\bin\ProfileService.dll.config
+D:\New folder\Profiles\ProfileService\bin\ProfileService.dll
+D:\New folder\Profiles\ProfileService\bin\ProfileService.pdb
+D:\New folder\Profiles\ProfileService\obj\Debug\ProfileService.csprojAssemblyReference.cache
+D:\New folder\Profiles\ProfileService\obj\Debug\ProfileService.csproj.CoreCompileInputs.cache
+D:\New folder\Profiles\ProfileService\obj\Debug\ProfileService.dll
+D:\New folder\Profiles\ProfileService\obj\Debug\ProfileService.pdb

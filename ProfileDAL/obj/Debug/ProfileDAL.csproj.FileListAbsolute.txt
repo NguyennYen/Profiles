@@ -1,0 +1,6 @@
+D:\New folder\Profiles\ProfileDAL\bin\Debug\ProfileDAL.dll
+D:\New folder\Profiles\ProfileDAL\bin\Debug\ProfileDAL.pdb
+D:\New folder\Profiles\ProfileDAL\obj\Debug\ProfileDAL.csprojAssemblyReference.cache
+D:\New folder\Profiles\ProfileDAL\obj\Debug\ProfileDAL.csproj.CoreCompileInputs.cache
+D:\New folder\Profiles\ProfileDAL\obj\Debug\ProfileDAL.dll
+D:\New folder\Profiles\ProfileDAL\obj\Debug\ProfileDAL.pdb
